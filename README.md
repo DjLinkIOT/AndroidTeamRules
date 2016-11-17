@@ -1,2 +1,2 @@
-# AndroidTeamRules
-The rules for Android Team developing 
+# TeamRules
+The rules for developing Team 
